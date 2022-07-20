@@ -1,4 +1,6 @@
-{"contratante":"Contrato Looplex/Linkana",
- "tipoPessoa":"Física",
- "dataVencimento":"2022-07-20T13:30:00+00:00",
- "emailResponsavel":"erick.kitada@looplex.com.br"}
+{
+   "contratante":"Contrato Looplex/Linkana",
+   "tipoPessoa":"Fisica",
+   "dataVencimento":"2022-07-20T13:30:00+00:00",
+   "emailResponsavel":"erick.kitada@looplex.com.br"
+}
