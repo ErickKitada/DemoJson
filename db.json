@@ -1,20 +1,6 @@
 {
-  "users": [
-    {
-      "id": 1,
-      "title": "DevLawyer"
-    },
-    {
-      "id": 2,
-      "title": "Octavio Ietsugu"
-    }
-  ],
-  "law_areas": [
-    {
-      "name": "Civil"
-    },
-    {
-      "name": "Penal"
-    }
-  ]
+ "contratante":"Contrato Looplex/Linkana",
+ "tipoPessoa":"Física",
+ "dataVencimento":"2022-07-20T13:30:00+00:00",
+ "emailResponsavel":"erick.kitada@looplex.com.br"
 }
